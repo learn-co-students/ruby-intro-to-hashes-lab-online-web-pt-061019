@@ -49,8 +49,8 @@ def monopoly_with_third_tier
 				:shortline=>
 				{
 					"mortgage_value"=>"$800"
-				
 
+        }
 			} # closing rent_in_dollars
 	  } # closing railroads hash
 	} # closing main monopoly hash
